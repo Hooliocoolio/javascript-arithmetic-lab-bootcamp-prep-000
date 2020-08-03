@@ -4,3 +4,8 @@ function add(a, b){
 }
 
 add(a, b)
+
+function subtract(a, b){
+  let difference = a - b
+  return difference
+}
