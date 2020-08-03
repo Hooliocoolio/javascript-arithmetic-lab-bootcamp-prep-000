@@ -3,9 +3,9 @@ function add(a, b){
   return sum
 }
 
-add(a, b)
+ 
 
 function subtract(a, b){
-  let difference = a - b
+  let difference = b - a
   return difference
 }
